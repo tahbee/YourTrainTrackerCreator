@@ -1,0 +1,2 @@
+# YourTrainTrackerCreator
+This application was created by Tahbee Hassan. All the data is returned from MetroHero through REST API Calls. Thanks to MetroHero for providing access to their APIs. This application will make REST API Calls to MetroHero to get data related to MetroRail trains and stationss. Users will have to give this application permission for the app to detect user's current active location to search for nearby train stations.
